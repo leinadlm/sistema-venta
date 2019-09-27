@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  uuid: MyString
+  metodo_pago: MyString
+  forma_pago: MyString
+  total: 9.99
+
+two:
+  uuid: MyString
+  metodo_pago: MyString
+  forma_pago: MyString
+  total: 9.99
